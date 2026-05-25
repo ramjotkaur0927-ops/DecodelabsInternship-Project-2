@@ -22,5 +22,9 @@ across 2023–2025.
 - **Referral Sources:** Instagram, Facebook, Google, Email, Referral
 - **Coupon Codes:** SAVE10, FREESHIP, WINTER15
 
+## 📁 Dataset Links
+- 📄 [Raw Dataset](https://github.com/ramjotkaur0927-ops/DecodelabsInternship-Project-2/blob/main/Dataset%20for%20Data%20Analytics.xlsx)
+- ✅ [Cleaned Dataset](https://github.com/ramjotkaur0927-ops/DecodelabsInternship-Project-2/blob/main/Cleaned_Dataset_2..xlsx)
+
 ## 👩 Author
 Ramjot Kaur — Data Analyst | BIA Data Science & AI Student
