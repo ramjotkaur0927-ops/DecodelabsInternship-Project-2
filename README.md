@@ -1,10 +1,9 @@
-# Telecom Customer Churn Prediction — Supervised Learning End-to-End
+ #E-Commerce Sales Analysis — Decodelabs Internship Project 2
 
 ## 📌 Project Overview
-This project builds an end-to-end supervised machine learning pipeline 
-to predict customer churn for a telecom company. It covers data 
-cleaning, exploratory data analysis, feature engineering, model 
-training, and evaluation.
+Analysis of e-commerce order data covering sales trends, customer 
+behavior, coupon usage, referral sources, and product performance 
+across 2023–2025.
 
 ## 📂 Repository Contents
 | File | Description |
@@ -13,15 +12,15 @@ training, and evaluation.
 | `Dataset for Data Analytics.xlsx` | Raw dataset used for analysis |
 ## 🛠️ Tools & Technologies
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
-- Jupyter Notebook / Google Colab
+- Google Colab
 - Excel
-
-## 📊 Key Steps
-1. Data Cleaning & Preprocessing
-2. Exploratory Data Analysis (EDA)
-3. Feature Engineering
-4. Model Training (Supervised Learning)
-5. Model Evaluation & Insights
+  
+## 📊 Dataset Features
+- **Products:** Laptop, Phone, Tablet, Monitor, Printer, Chair, Desk
+- **Order Status:** Delivered, Shipped, Pending, Cancelled, Returned
+- **Payment Methods:** Credit Card, Debit Card, Cash, Online, Gift Card
+- **Referral Sources:** Instagram, Facebook, Google, Email, Referral
+- **Coupon Codes:** SAVE10, FREESHIP, WINTER15
 
 ## 👩 Author
 Ramjot Kaur — Data Analyst | BIA Data Science & AI Student
